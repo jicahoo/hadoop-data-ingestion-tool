@@ -30,6 +30,8 @@ How to load data from other system/application to hadoop
 * 数据量大，数据是分布式存储的，数据分析的逻辑也是在分布式计算框架上执行的。
 * 数据分析的接口。Apache Kylin提供了SQL, RESTful API. 有了SQL, 就可以在Excel, PowerBI, Tableau使用这些可视化地查看，探索这些数据。
 
+# 相关产品或开源软件
+* MyCat. http://mycat.io/. 基于MySQL做数据库集群，本质是个数据库中间件。
 
 # Load RDBMS Data to/from HDFS
 * https://coderwall.com/p/kgrwwq/sqoop-data-transfer-tool-from-rdbms-to-hadoop-box
@@ -44,3 +46,4 @@ How to load data from other system/application to hadoop
 * The tool of data ingestion to Hadoop: https://www.predictiveanalyticstoday.com/data-ingestion-tools/
 * Demo很酷 Oralce到Hadoop: http://discover.attunity.com/replicate-express-registration.html
 * Attunity as the Hadoop data ingestion tool: https://www.attunity.com/hadoop-data-ingestion-tool/ 
+
