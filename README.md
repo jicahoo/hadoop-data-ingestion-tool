@@ -43,4 +43,4 @@ How to load data from other system/application to hadoop
 * Diff between Sqoop&Flume (Coupons use sqoop.)https://www.dezyre.com/article/sqoop-vs-flume-battle-of-the-hadoop-etl-tools-/176
 * The tool of data ingestion to Hadoop: https://www.predictiveanalyticstoday.com/data-ingestion-tools/
 * Demo很酷 Oralce到Hadoop: http://discover.attunity.com/replicate-express-registration.html
-* Attunity as the Hadoop ingestion tool: https://www.attunity.com/hadoop-data-ingestion-tool/ 
+* Attunity as the Hadoop data ingestion tool: https://www.attunity.com/hadoop-data-ingestion-tool/ 
