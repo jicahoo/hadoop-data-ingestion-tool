@@ -10,6 +10,9 @@ How to load data from other system/application to hadoop
 * 那种类型的数据分析？ 实时的，还是离线的？
 * 是OLAP？
 
+# 选型
+* Kylin: 美团对大数据量OLAP的点评： https://zhuanlan.zhihu.com/p/27461561
+
 # Legacy data system
 * Oracle
 * MySQL
