@@ -11,7 +11,8 @@ How to load data from other system/application to hadoop
 * 是OLAP？
 
 # 什么是OLAP
-* 一个轻量级的基于Python的OLAP系统: https://github.com/DataBrewery/cubes
+* 一个轻量级的基于Python的OLAP系统: https://github.com/DataBrewery/cubes http://cubes.databrewery.org/documentation.html
+* Postgres 对OLAP的支持。
 
 # 选型
 * Kylin: 美团对大数据量OLAP的点评： https://zhuanlan.zhihu.com/p/27461561
