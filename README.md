@@ -37,6 +37,9 @@ How to load data from other system/application to hadoop
 * 数据量大，数据是分布式存储的，数据分析的逻辑也是在分布式计算框架上执行的。
 * 数据分析的接口。Apache Kylin提供了SQL, RESTful API. 有了SQL, 就可以在Excel, PowerBI, Tableau使用这些可视化地查看，探索这些数据。
 
+# 资料
+* Apache Kylin 综述： https://www.jianshu.com/p/7fafa9103252
+
 # 相关产品或开源软件
 * MyCat. http://mycat.io/. 基于MySQL做数据库集群，本质是个数据库中间件。
 
