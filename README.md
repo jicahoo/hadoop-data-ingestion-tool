@@ -10,9 +10,14 @@ How to load data from other system/application to hadoop
 * 那种类型的数据分析？ 实时的，还是离线的？
 * 是OLAP？
 
+
 # 什么是OLAP
 * 一个轻量级的基于Python的OLAP系统: https://github.com/DataBrewery/cubes http://cubes.databrewery.org/documentation.html
 * Postgres 对OLAP的支持。
+
+# OLAP的系统类型
+* 这篇文章介绍了MOLAP, ROLAP, HOLAP： http://blog.csdn.net/wzy0623/article/details/73220094 
+* Kylin属于MOLAP.
 
 # 选型
 * Kylin: 美团对大数据量OLAP的点评： https://zhuanlan.zhihu.com/p/27461561
