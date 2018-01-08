@@ -46,8 +46,8 @@ How to load data from other system/application to hadoop
 
 # 案例
 * 百度地图：http://www.infoq.com/cn/articles/practis-of-apache-kylin-in-baidu-map
-* 链家：http://dataunion.org/27984.html
-* 唯品会：http://www.uml.org.cn/bigdata/201703092.asp
+* 链家(A+)：http://dataunion.org/27984.html
+* 唯品会(A+) (Presto+Kylin)(前面的版本页面噪音少）：http://www.uml.org.cn/bigdata/201703092.asp http://www.infoq.com/cn/articles/application-of-apache-kylin-in-vip-big-data 
 * 创始人采访：https://baijia.baidu.com/s?old_id=544791
 
 # 相关产品或开源软件
