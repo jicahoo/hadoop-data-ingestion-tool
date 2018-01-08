@@ -31,6 +31,9 @@ How to load data from other system/application to hadoop
 * MongoDB
 * Access
 
+# Benchmark 工具
+* http://www.tpc.org/default.asp
+
 # Question
 * Incremental copy data from RDBMS to HDFS?
 * Sqoop support converters?
