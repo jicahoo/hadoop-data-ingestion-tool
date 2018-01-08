@@ -42,6 +42,8 @@ How to load data from other system/application to hadoop
 
 # 案例
 * 百度地图：http://www.infoq.com/cn/articles/practis-of-apache-kylin-in-baidu-map
+* 链家：http://dataunion.org/27984.html
+
 # 相关产品或开源软件
 * MyCat. http://mycat.io/. 基于MySQL做数据库集群，本质是个数据库中间件。
 
