@@ -17,6 +17,10 @@ How to load data from other system/application to hadoop
 # 选型
 * Kylin: 美团对大数据量OLAP的点评： https://zhuanlan.zhihu.com/p/27461561
 
+# Kylin解决什么行业痛点
+* 大数据平台上的OLAP
+
+
 # Legacy data system
 * Oracle
 * MySQL
