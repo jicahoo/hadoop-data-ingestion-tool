@@ -20,6 +20,10 @@ How to load data from other system/application to hadoop
 # Kylin解决什么行业痛点
 * 大数据平台上的OLAP
 
+# Kylin的相关原理
+* https://blog.bcmeng.com/post/kylin-cube.html Kylin Cube的构建原理
+* http://www.infoq.com/cn/articles/apache-kylin-algorithm Kylin Cube构建的新旧算法对比：逐层Cubing和Fast Cubing.
+
 
 # Legacy data system
 * Oracle
