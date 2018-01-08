@@ -55,6 +55,7 @@ How to load data from other system/application to hadoop
 
 # 资料
 * Apache Kylin 综述： https://www.jianshu.com/p/7fafa9103252
+* Kylin. Presto的雷达图。https://www.iteblog.com/archives/1710.html
 
 # 案例
 * 百度地图：http://www.infoq.com/cn/articles/practis-of-apache-kylin-in-baidu-map
