@@ -67,6 +67,11 @@ How to load data from other system/application to hadoop
 # 相关产品或开源软件
 * MyCat. http://mycat.io/. 基于MySQL做数据库集群，本质是个数据库中间件。
 
+## HAWQ
+* HAWQ是Hadoop With Query的简写。
+* HAWQ是Hadoop上的SQL引擎。
+* HAWQ是MPP架构，很多技术应该都来自于Greenplum。
+
 # Load RDBMS Data to/from HDFS
 * https://coderwall.com/p/kgrwwq/sqoop-data-transfer-tool-from-rdbms-to-hadoop-box
 
