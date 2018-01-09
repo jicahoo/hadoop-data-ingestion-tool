@@ -68,8 +68,13 @@ How to load data from other system/application to hadoop
 * MyCat. http://mycat.io/. 基于MySQL做数据库集群，本质是个数据库中间件。
 
 ## HAWQ
+* http://hawq.incubator.apache.org/
 * HAWQ是Hadoop With Query的简写。
 * HAWQ是Hadoop上的SQL引擎。
+* HAWQ的特色是
+   * 高吞吐量，低延时(潜在地，近实时)，支持PB级别数据量。号称这种能力来自于MPP架构。
+   * SQL
+   * Hadoop集成的好。
 * HAWQ是MPP架构，很多技术应该都来自于Greenplum。
 * HAWQ出自于EMC的Pivotal公司。但是，没有绑定Pivotal公司的产品（战略上，Pivotal不再做Hadoop的发行版)。在连接https://cwiki.apache.org/confluence/display/HAWQ/Build+and+Install里， 例子就是使用原生的Hadoop。
 
