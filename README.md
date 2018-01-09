@@ -71,6 +71,7 @@ How to load data from other system/application to hadoop
 * HAWQ是Hadoop With Query的简写。
 * HAWQ是Hadoop上的SQL引擎。
 * HAWQ是MPP架构，很多技术应该都来自于Greenplum。
+* HAWQ出自于EMC的Pivotal公司。但是，没有绑定Pivotal公司的产品（战略上，Pivotal不再做Hadoop的发行版)。在连接https://cwiki.apache.org/confluence/display/HAWQ/Build+and+Install里， 例子就是使用原生的Hadoop。
 
 # Load RDBMS Data to/from HDFS
 * https://coderwall.com/p/kgrwwq/sqoop-data-transfer-tool-from-rdbms-to-hadoop-box
