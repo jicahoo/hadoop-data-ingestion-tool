@@ -91,6 +91,34 @@
   * Sqoop support converters?
 * DataX
 
+# 业务数据到数据仓库
+* 业务数据
+   * MySQL, Redis
+   * 一天一千万条
+   * 其他
+* 如何导入到数据仓库
+   * 不影响业务系统
+   * ETL
+   * RabbitMQ
+   * 增量
+   * 限流
+   * kafka
+   * RabbitMQ
+   * kettle
+   * https://www.cnblogs.com/DataPipeline2018/p/9414825.html 规则引擎的概念，规则定义数据以什么样的方式导入到数据仓库
+   
+* 数据仓库
+   * 目标，可视化，交互分析，报警？
+   * PostgreSQL? Roll up
+   * Cassandra? 写入速度足够快？ 还是从Kafka直接到Postgres.
+   * Greenplum
+   * Apache Kylin
+   * 时间序列数据
+   * 地理位置数据
+   * 
+   
+
+
 
 
 
