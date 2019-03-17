@@ -129,6 +129,9 @@
    * 数据可视化工具: 
 * 类似的系统
    * http://ajilius.com/doc/build-warehouse/
+* 参考
+   * https://www.metabase.com/blog/which-data-warehouse-to-use/
+   
 # 后面的章节不重要。
 
 
