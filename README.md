@@ -127,7 +127,8 @@
    * DataStax说可以用Cassandra做数据仓库：https://www.slideshare.net/VictorCoustenoble/bi-reporting-and-analytics-on-apache-cassandra
    * 数据可视化工具: 一个
    * 数据可视化工具: 
- 
+* 类似的系统
+   * http://ajilius.com/doc/build-warehouse/
 # 后面的章节不重要。
 
 
