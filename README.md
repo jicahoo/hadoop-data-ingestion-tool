@@ -120,6 +120,7 @@
    
  * 从最终价值角度思考
    * 我也要从这个角度思考所有相关系统的一切，不然，你的系统就不会满足最终目标。
+   * 推销敏捷开发，因为他们都不懂这个。选取一个具体的端到端的用户价值，开始项目。
    * 数据可视化工具: 
 * 选型
    * Cassandra不是一个合适的数据仓库和商业智能系统：https://www.quora.com/Is-there-any-known-project-using-Apache-Cassandra-to-develop-data-warehousing-or-business-intelligence-systems
