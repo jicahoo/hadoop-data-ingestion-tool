@@ -133,6 +133,7 @@
    * 数据可视化工具: 
 * 类似的系统
    * http://ajilius.com/doc/build-warehouse/
+   * https://www.stitchdata.com/
 * 参考
    * https://www.metabase.com/blog/which-data-warehouse-to-use/
    
