@@ -124,6 +124,7 @@
    * 数据可视化工具: 
 * 选型
    * Cassandra不是一个合适的数据仓库和商业智能系统：https://www.quora.com/Is-there-any-known-project-using-Apache-Cassandra-to-develop-data-warehousing-or-business-intelligence-systems
+   * DataStax说可以用Cassandra做数据仓库：https://www.slideshare.net/VictorCoustenoble/bi-reporting-and-analytics-on-apache-cassandra
    * 数据可视化工具: 一个
    * 数据可视化工具: 
  
