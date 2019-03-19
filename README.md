@@ -140,6 +140,7 @@
    * https://www.metabase.com/blog/which-data-warehouse-to-use/
    * https://medium.com/windfalldata/strategies-for-scaling-with-postgresql-4d96872f352e
    * cassandra+spark sql: https://www.slideshare.net/databricks/cassandra-and-sparksql-you-dont-need-functional-programming-for-fun-with-russell-spitzer
+   * SPARK thrift server: https://spoddutur.github.io/spark-notes/spark-as-cloud-based-sql-engine-via-thrift-server.html
    
 # 后面的章节不重要。
 
