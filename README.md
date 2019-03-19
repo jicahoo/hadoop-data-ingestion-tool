@@ -139,6 +139,7 @@
    * https://statsbot.co/blog/modern-data-warehouse/  **讲得非常好**
    * https://www.metabase.com/blog/which-data-warehouse-to-use/
    * https://medium.com/windfalldata/strategies-for-scaling-with-postgresql-4d96872f352e
+   * cassandra+spark sql: https://www.slideshare.net/databricks/cassandra-and-sparksql-you-dont-need-functional-programming-for-fun-with-russell-spitzer
    
 # 后面的章节不重要。
 
